@@ -15,19 +15,6 @@
 	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211111115823.png" width="400"/>
 </a>
 
-<p align="center">
-  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
-</p>
-
-<p align="center">
-<a href="https://union-click.jd.com/jdc?e=&p=JF8BAMQJK1olXg8EUVhVCkkWAV8IGV8WVAICU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUF1UDEsQHDZNRwYlX0B9A1cfakpyYBkSRj4QKFBUEEAfaEcbM244GFIXWQYAUV5VOHsXBF9edVsUXAcDVVtdDUgnAl8IHFkdXw8KUl5fDkgRM2gIEmtIFVpKAxVtOHsUM184G2sWbURsVApfAR8XA2sLSw8cWA8LUw1ZCElHAmhdTAxGW1YBUlxtCkoWB2Y4" target="_blank">
-	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211213180559.png" width="400"/>
-</a>
-</p>
-
 
 # LeetCode 刷题攻略
 
